@@ -11,7 +11,6 @@
   <img align="center" alt="sabrina-PHP" height="90" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="sabrina-PHP" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master//icons/php/php-plain.svg">
   <img align="center" alt="sabrina-PHP" height="90" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/bfe7bcdb520a153cb207477b3c76e8ca.gif">
 </div>
   
   ##
