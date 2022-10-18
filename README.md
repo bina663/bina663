@@ -12,7 +12,7 @@
   <img align="center" alt="sabrina-PHP" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master//icons/php/php-plain.svg">
   <img align="center" alt="sabrina-PHP" height="90" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="sabrina-PHP" height="90" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="sabrina-PHP" height="90" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
+  <img align="center" style="color:white;" alt="sabrina-PHP" height="90" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
 </div>
   
   ##
