@@ -13,6 +13,9 @@
   <img align="center" alt="sabrina-PHP" height="90" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="sabrina-PHP" height="90" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" style="color:white;" alt="sabrina-PHP" height="90" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
+  <img align="center" style="color:white;" alt="sabrina-PHP" height="90" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+  <img align="center" style="color:white;" alt="sabrina-PHP" height="90" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" style="color:white;" alt="sabrina-PHP" height="90" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
 </div>
   
   ##
