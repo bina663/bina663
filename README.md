@@ -16,6 +16,7 @@
   <img align="center" style="color:white;" alt="sabrina-PHP" height="90" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" style="color:white;" alt="sabrina-PHP" height="90" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" style="color:white;" alt="sabrina-PHP" height="90" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
+  <img align="center" style="color:white;" alt="sabrina-PHP" height="90" width="40" src="https://pngset.com/images/using-puppeteer-to-extract-code-coverage-data-from-chrome-dev-tools-text-symbol-logo-trademark-transparent-png-2004405.png">
 </div>
   
   ##
