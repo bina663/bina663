@@ -18,6 +18,7 @@
   <img align="center" style="color:white;" alt="sabrina-PHP" height="90" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
   <img align="center" style="color:white;" alt="sabrina-PHP" height="90" width="40" src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-icon.svg">
   <img align="center" style="color:white;" alt="sabrina-PHP" height="90" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" style="color:white;" alt="sabrina-PHP" height="90" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 </div>
   
   ##
