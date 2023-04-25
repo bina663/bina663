@@ -23,6 +23,7 @@
   <img align="center" style="color:white;" alt="sabrina-PHP" height="90" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" style="color:white;" alt="sabrina-PHP" height="90" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
   <img align="center" style="color:white;" alt="sabrina-PHP" height="90" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
+  <img align="center" style="color:white;" alt="sabrina-PHP" height="90" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 </div>
   
   ##
