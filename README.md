@@ -1,4 +1,4 @@
-##  <h1>Hi, My name is Sabrina</h1>
+##  <h1>Hi, My name is Bina</h1>
 ## <p>Neste ramo, sorte não resolve problemas. <small>(Resident Evil: No Escuro Absoluto)</small></p>
 <div align="center">
   <a href="https://github.com/sabrina663">
