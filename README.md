@@ -3,10 +3,14 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF79C6&center=true&vCenter=true&width=435&lines=Hi%2C+My+name+is+Sabrina!;)
 
 </div>
+<p>Analista de Sistemas com especialização em Engenharia da Computação</p>  
+
+Desenvolvedora Web & Especialista em Scrapers 🚀  
+Transformo dados em soluções inteligentes e automações eficientes 💻  
 
 ## <p>Neste ramo, sorte não resolve problemas. <small>(Resident Evil: No Escuro Absoluto)</small></p>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/bina663">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bina663&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bina663&layout=compact&langs_count=7&theme=dracula"/>
@@ -14,7 +18,7 @@
 
 ## 💻 Tecnologias que mais uso
 
-<div align="center">
+<div align="left">
 
 | Front-end | Back-end | Outros |
 |------------|-----------|---------|
