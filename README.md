@@ -28,7 +28,6 @@
   
   ##
 <div><br>  
-  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21ntyt57re4cp7qjjn25arila&count=1)
  <a href="https://discord.gg/j2KmdrW4" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "mailto:bina.oliver4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sabrina-oliveira-ba80031b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
