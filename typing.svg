@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="80" viewBox="0 0 600 80" role="img" aria-label="Oi, eu sou a Sabrina!">
+  <style>
+    .text { font: 700 36px "Segoe UI", Roboto, Arial, sans-serif; fill:#1f2937; }
+    .bg { fill: transparent; }
+    .caret { fill:#1f2937; }
+  </style>
+
+  <!-- fundo transparente -->
+  <rect class="bg" width="100%" height="100%"/>
+
+  <!-- máscara que revela o texto (efeito de "digitação") -->
+  <defs>
+    <mask id="reveal">
+      <!-- retângulo branco que cresce em largura revelando o texto -->
+      <rect x="0" y="0" width="0" height="80" fill="#fff">
+        <!-- ajuste dur="3s" para acelerar/retardar -->
+        <animate attributeName="width" from="0" to="460" dur="3s" fill="freeze" />
+      </rect>
+    </mask>
+  </defs>
+
+  <!-- texto a ser exibido -->
+  <text class="text" x="10" y="52" mask="url(#reveal)">Oi, eu sou a Sabrina!</text>
+
+  <!-- cursor/palito que se move junto com a digitação e pisca -->
+  <rect class="caret" x="10" y="18" width="4" height="36">
+    <!-- move o cursor da posição inicial até o final do texto durante a digitação -->
+    <animate attributeName="x" from="10" to="470" dur="3s" fill="freeze" />
+    <!-- piscar contínuo (após a animação o cursor fica visível por causa do fill="freeze") -->
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" />
+  </rect>
+</svg>
