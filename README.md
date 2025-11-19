@@ -13,7 +13,6 @@ Transformo dados em soluções inteligentes e automações eficientes 💻</p>
 
 <div align="center">
   <a href="https://github.com/bina663">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bina663&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bina663&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
