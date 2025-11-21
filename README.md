@@ -10,7 +10,7 @@
 Transformo dados em soluções inteligentes e automações eficientes 💻</p>
 
 ## <p align="center" style="color:#9B59B6;">Neste ramo, sorte não resolve problemas. <small>(Resident Evil: No Escuro Absoluto)</small></p>
-
+## <p align="center" style="color:#9B59B6;">Meu Portfólio https://portfoliosabrinaoliver.com/</p>
 <div align="center">
   <a href="https://github.com/bina663">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bina663&layout=compact&langs_count=7&theme=dracula"/>
