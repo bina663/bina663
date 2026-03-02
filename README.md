@@ -21,6 +21,7 @@ Atuo também com RPA (Automação de Processos), desenvolvendo fluxos automatiza
 Além disso, desenvolvo jogos no meu tempo livre. Já participei de diversas Game Jams com um grupo de amigos, criando experiências criativas sob pressão e prazo limitado — algo que fortaleceu muito meu trabalho em equipe, organização e capacidade de prototipação rápida.
 
 Minha paixão por jogos, especialmente aqueles focados em enigmas e desafios lógicos, foi o que despertou ainda mais meu interesse por automação e resolução de problemas complexos. Encontrar padrões, entender sistemas e superar obstáculos técnicos é o que realmente me move.
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=80&section=footer"/>
 
 <font color="#9B59B6"><h2>🚀 Tecnologias</h2></font>
@@ -71,16 +72,18 @@ Minha paixão por jogos, especialmente aqueles focados em enigmas e desafios ló
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bina663&theme=tokyonight" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bina663&theme=tokyonight" />
 </p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=80&section=footer"/>
 
 <font color="#9B59B6"><h2>☎️ Contato</h2></font>
-
-  <a href="https://www.linkedin.com/in/sabrina-oliveira-ba80031b0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="center">
+  <a href="SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/binaoliver" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-9B59B6?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="SEU_DISCORD">
+    <img src="https://img.shields.io/badge/Discord-Falar_Comigo-9B59B6?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=80&section=footer"/>
 <img src="img/banner-end.gif">
