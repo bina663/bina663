@@ -13,7 +13,9 @@
 </div>
 
 <!-- Sobre mim -->
-<p style="color:#9B59B6; font-size: 2.0em; font-weight: bold; margin: 0;">💻 Sobre mim</p>
+<h2 style="color:#9B59B6; font-weight:bold; margin: 0;">
+  💻 Sobre mim
+</h2>
 <br>
 <p>
 Sou desenvolvedora web com experiência na criação de sistemas web e manutenção de aplicações já existentes, sempre buscando código limpo, performance e soluções bem estruturadas.<br><br>
@@ -27,8 +29,9 @@ Minha paixão por jogos, especialmente focados em enigmas e desafios lógicos, d
 
 <!-- Tecnologias -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=80&section=header"/>
-<p style="color:#9B59B6; font-size:  2.0em; font-weight: bold; margin: 0;">🚀 Tecnologias</p>
-
+<h2 style="color:#9B59B6; font-weight:bold; margin: 0;">
+  🚀 Tecnologias
+</h2>
 <!-- Front-End -->
 <section style="text-align:left; margin-bottom:20px;">
   <h3 style="color:#9B59B6;">🎨 Front-End</h3>
@@ -108,7 +111,9 @@ Minha paixão por jogos, especialmente focados em enigmas e desafios lógicos, d
 
 <!-- Estatísticas -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=80&section=footer"/>
-<p style="color:#9B59B6; font-size: 1.5em; font-weight: bold; margin: 0;">📃 Estatísticas</p>
+<h2 style="color:#9B59B6; font-weight:bold; margin: 0;">
+ 📃 Estatísticas
+</h2>
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bina663&theme=tokyonight" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bina663&theme=tokyonight" />
@@ -116,7 +121,9 @@ Minha paixão por jogos, especialmente focados em enigmas e desafios lógicos, d
 
 <!-- Contato -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=80&section=footer"/>
-<p style="color:#9B59B6; font-size: 2.0em; font-weight: bold; margin: 0;">☎️ Contato</p>
+<h2 style="color:#9B59B6; font-weight:bold; margin: 0;">
+☎️ Contato
+</h2>
 <br>
 <p align="left">
   <a href="https://www.linkedin.com/in/sabrina-oliveira-ba80031b0/">
