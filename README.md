@@ -1,36 +1,36 @@
 <div align="center">
+   <!-- Banner -->
    <img src="img/banner.gif" />
 
+   <!-- Onda superior do título -->
    <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=100&section=header"/>
 
-   <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&text=Olá,%20me%20chamo%20Sabrina&fontColor=9B59B6&fontAlignY=50&animation=blink&rotate=0&reversal=false"/>
+   <!-- Título principal -->
+   <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Olá,%20me%20chamo%20Sabrina&fontColor=9B59B6&fontAlignY=50&animation=blink"/>
 
+   <!-- Onda inferior do título -->
    <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=100&section=footer"/>
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=80&section=header"/>
+
+<!-- Sobre mim -->
+<p style="color:#9B59B6; font-size: 1.5em; font-weight: bold; margin: 0;">💻 Sobre mim</p>
 <br>
-<p style="color:#9B59B6; font-size: 1.5em; font-weight: bold; margin: 0;">
-    💻 Sobre mim
+<p>
+Sou desenvolvedora web com experiência na criação de sistemas web e manutenção de aplicações já existentes, sempre buscando código limpo, performance e soluções bem estruturadas.<br><br>
+
+Atuo também com RPA (Automação de Processos), desenvolvendo fluxos automatizados que interagem com sistemas web, lidando com mecanismos de proteção como antibot e diferentes tipos de captchas.<br><br>
+
+Além disso, desenvolvo jogos no meu tempo livre. Já participei de diversas Game Jams com amigos, criando experiências criativas sob pressão e prazo limitado — fortalecendo trabalho em equipe, organização e prototipação rápida.<br><br>
+
+Minha paixão por jogos, especialmente focados em enigmas e desafios lógicos, despertou ainda mais meu interesse por automação e resolução de problemas complexos.
 </p>
-<br>
 
-Sou desenvolvedora web com experiência na criação de sistemas web e manutenção de aplicações já existentes, sempre buscando código limpo, performance e soluções bem estruturadas.
-
-Atuo também com RPA (Automação de Processos), desenvolvendo fluxos automatizados que interagem com sistemas web, lidando com mecanismos de proteção como antibot e diferentes tipos de captchas. Resolver esses desafios técnicos é algo que me motiva e me faz evoluir constantemente como desenvolvedora.
-
-Além disso, desenvolvo jogos no meu tempo livre. Já participei de diversas Game Jams com um grupo de amigos, criando experiências criativas sob pressão e prazo limitado — algo que fortaleceu muito meu trabalho em equipe, organização e capacidade de prototipação rápida.
-
-Minha paixão por jogos, especialmente aqueles focados em enigmas e desafios lógicos, foi o que despertou ainda mais meu interesse por automação e resolução de problemas complexos. Encontrar padrões, entender sistemas e superar obstáculos técnicos é o que realmente me move.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=80&section=footer"/>
+<!-- Tecnologias -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=80&section=header"/>
-<br>
-<p style="color:#9B59B6; font-size: 1.5em; font-weight: bold; margin: 0;">
-   🚀 Tecnologias
-</p>
+<p style="color:#9B59B6; font-size: 1.5em; font-weight: bold; margin: 0;">🚀 Tecnologias</p>
 
 <!-- Front-End -->
-<section style="text-align:left; margin-bottom:40px;">
+<section style="text-align:left; margin-bottom:20px;">
   <h3 style="color:#9B59B6;">🎨 Front-End</h3>
   <p>
     <img src="https://img.shields.io/badge/HTML5-9B59B6?style=for-the-badge&logo=html5&logoColor=white" />
@@ -41,7 +41,7 @@ Minha paixão por jogos, especialmente aqueles focados em enigmas e desafios ló
 </section>
 
 <!-- Back-End -->
-<section style="text-align:left; margin-bottom:40px;">
+<section style="text-align:left; margin-bottom:20px;">
   <h3 style="color:#9B59B6;">🧠 Back-End</h3>
   <p>
     <img src="https://img.shields.io/badge/PHP-9B59B6?style=for-the-badge&logo=php&logoColor=white" />
@@ -52,7 +52,7 @@ Minha paixão por jogos, especialmente aqueles focados em enigmas e desafios ló
 </section>
 
 <!-- Game Dev -->
-<section style="text-align:left; margin-bottom:40px;">
+<section style="text-align:left; margin-bottom:20px;">
   <h3 style="color:#9B59B6;">🎮 Game Dev</h3>
   <p>
     <img src="https://img.shields.io/badge/C%23-9B59B6?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -62,7 +62,7 @@ Minha paixão por jogos, especialmente aqueles focados em enigmas e desafios ló
 </section>
 
 <!-- RPA -->
-<section style="text-align:left; margin-bottom:40px;">
+<section style="text-align:left; margin-bottom:20px;">
   <h3 style="color:#9B59B6;">🤖 RPA</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-9B59B6?style=for-the-badge&logo=python&logoColor=white" />
@@ -73,7 +73,7 @@ Minha paixão por jogos, especialmente aqueles focados em enigmas e desafios ló
 </section>
 
 <!-- Infra & Cloud -->
-<section style="text-align:left; margin-bottom:40px;">
+<section style="text-align:left; margin-bottom:20px;">
   <h3 style="color:#9B59B6;">☁️ Infra & Cloud</h3>
   <p>
     <img src="https://img.shields.io/badge/Docker-9B59B6?style=for-the-badge&logo=docker&logoColor=white" />
@@ -86,7 +86,7 @@ Minha paixão por jogos, especialmente aqueles focados em enigmas e desafios ló
 </section>
 
 <!-- Bancos de Dados -->
-<section style="text-align:left; margin-bottom:40px;">
+<section style="text-align:left; margin-bottom:20px;">
   <h3 style="color:#9B59B6;">🗄️ Bancos de Dados</h3>
   <p>
     <img src="https://img.shields.io/badge/MySQL-9B59B6?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -106,21 +106,17 @@ Minha paixão por jogos, especialmente aqueles focados em enigmas e desafios ló
   </p>
 </section>
 
+<!-- Estatísticas -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=80&section=footer"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=80&section=header"/>
-<p style="color:#9B59B6; font-size: 1.5em; font-weight: bold; margin: 0;">
-   📃 Estatísticas
-</p>
+<p style="color:#9B59B6; font-size: 1.5em; font-weight: bold; margin: 0;">📃 Estatísticas</p>
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bina663&theme=tokyonight" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bina663&theme=tokyonight" />
 </p>
 
+<!-- Contato -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=80&section=footer"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=80&section=header"/>
-<p style="color:#9B59B6; font-size: 1.5em; font-weight: bold; margin: 0;">
-   ☎️ Contato
-</p>
+<p style="color:#9B59B6; font-size: 1.5em; font-weight: bold; margin: 0;">☎️ Contato</p>
 <br>
 <p align="left">
   <a href="https://www.linkedin.com/in/sabrina-oliveira-ba80031b0/">
@@ -130,5 +126,6 @@ Minha paixão por jogos, especialmente aqueles focados em enigmas e desafios ló
     <img src="https://img.shields.io/badge/Discord-Falar_Comigo-9B59B6?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=80&section=footer"/>
-<img src="img/banner-end.gif">
+
+<!-- Banner final -->
+<img src="img/banner-end.gif"/>
