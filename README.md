@@ -3,8 +3,9 @@
 
    <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=100&section=header"/>
 
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=5000&color=9B59B6&center=true&vCenter=true&width=500&lines=Olá%2C+Meu+nome+é+Sabrina!" />
-
+   <div align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=2000&color=9B59B6&center=true&vCenter=true&width=600&lines=Olá,+Meu+nome+é+Sabrina!;Desenvolvedora+Web;Game+Developer;RPA+Developer" />
+   </div>
    <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=100&section=footer"/>
 
 
