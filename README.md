@@ -107,7 +107,6 @@ Minha paixão por jogos, especialmente aqueles focados em enigmas e desafios ló
 </section>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=80&section=footer"/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=80&section=header"/>
 <p style="color:#9B59B6; font-size: 1.5em; font-weight: bold; margin: 0;">
    📃 Estatísticas
@@ -118,7 +117,6 @@ Minha paixão por jogos, especialmente aqueles focados em enigmas e desafios ló
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=80&section=footer"/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=80&section=header"/>
 <p style="color:#9B59B6; font-size: 1.5em; font-weight: bold; margin: 0;">
    ☎️ Contato
@@ -132,6 +130,5 @@ Minha paixão por jogos, especialmente aqueles focados em enigmas e desafios ló
     <img src="https://img.shields.io/badge/Discord-Falar_Comigo-9B59B6?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=80&section=footer"/>
 <img src="img/banner-end.gif">
