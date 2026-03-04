@@ -2,12 +2,16 @@
    <!-- Banner -->
    <img src="img/banner.gif" />
 
+   <!-- Onda superior do título -->
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=100&section=header"/>
 
    <!-- Título principal -->
-   <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Olá,%20me%20chamo%20Sabrina&fontColor=9B59B6&fontAlignY=50&animation=blinking"/>
+   <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Olá,%20me%20chamo%20Sabrina&fontColor=9B59B6&fontAlignY=50&animation=blink"/>
 
+   <!-- Onda inferior do título -->
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=100&section=footer"/>
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=80&section=header"/>
+
 <!-- Sobre mim -->
 <h2 style="color:#9B59B6; font-weight:bold; margin: 0;">
   💻 Sobre mim
