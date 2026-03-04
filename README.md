@@ -6,7 +6,7 @@
    <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=100&section=header"/>
 
    <!-- Título principal -->
-   <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Olá,%20me%20chamo%20Sabrina&fontColor=9B59B6&fontAlignY=50&animation=blink"/>
+   <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Olá,%20me%20chamo%20Sabrina&fontColor=9B59B6&fontAlignY=50&animation=blinking"/>
 
    <!-- Onda inferior do título -->
    <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=100&section=footer"/>
