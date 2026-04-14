@@ -1,7 +1,6 @@
 <div align="center">
    <!-- Banner -->
-   <img src="img/19cdd80ea6fdfc941d111064c6a42c24.jpg" style="height: 350px;width:100%; object-fit:cover;" />
-
+  <img src="img/19cdd80ea6fdfc941d111064c6a42c24.jpg" width="100%" /> 
   <br>
    <!-- Título principal -->
    <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Olá,%20me%20chamo%20Sabrina&fontColor=ba1818&fontAlignY=50&animation=blinking"/>
@@ -118,4 +117,4 @@ No tempo livre, desenvolvo jogos e participo de Game Jams, criando soluções cr
 ---
 
 <!-- Banner final -->
-<img src="img/banner.jpg" style="height: 350px;width:100%; object-fit:cover;" />
+<img src="img/banner.jpg" width="100%" />
