@@ -1,6 +1,6 @@
 <div align="center">
    <!-- Banner -->
-   <img src="img/19cdd80ea6fdfc941d111064c6a42c24.jpg" style="height: 350px;width:100%; object-fit:cover;" />
+   <img src="img/19cdd80ea6fdfc941d111064c6a42c24.jpg" />
 
   <br>
    <!-- Título principal -->
@@ -118,4 +118,4 @@ No tempo livre, desenvolvo jogos e participo de Game Jams, criando soluções cr
 ---
 
 <!-- Banner final -->
-<img src="img/banner.jpg" style="height: 350px;width:100%; object-fit:cover;" />
+<img src="img/banner.jpg" />
