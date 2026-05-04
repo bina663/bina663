@@ -1,6 +1,6 @@
 <div align="center">
    <!-- Banner -->
-  <img src="img/19cdd80ea6fdfc941d111064c6a42c24.jpg" width="100%" /> 
+  <img src="img/d463f24b0e1f3f1ce6680d601c97e6a0.gif" width="100%" /> 
   <br>
    <!-- Título principal -->
    <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Olá,%20me%20chamo%20Sabrina&fontColor=ba1818&fontAlignY=50&animation=blinking"/>
