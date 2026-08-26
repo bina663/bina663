@@ -5,11 +5,11 @@
 ## 😎 Um pouco sobre mim
 
 <p>
-Sou desenvolvedora focada em desenvolvimento web e automações, sempre buscando evoluir minhas habilidades e criar projetos práticos que resolvem problemas reais.
+Olá! Sou Sabrina Oliveira, Desenvolvedora Backend Pleno com mais de 4 anos de experiência em desenvolvimento de automações, web scraping e integração de sistemas.
 
-Tenho interesse especial em segurança da informação, automação de processos e desenvolvimento backend, além de gostar bastante de explorar novas tecnologias e ferramentas do ecossistema web.
+Atualmente trabalho no desenvolvimento e manutenção de soluções automatizadas, utilizando tecnologias como Node.js, Python, AWS Lambda e serviços em nuvem. Tenho experiência na construção de APIs, processamento de dados, integração com serviços externos e automação de processos complexos.
 
-Gosto de aprender na prática, desenvolvendo projetos pessoais, testando ideias e melhorando constantemente meu código e minha lógica de programação.
+Atualmente também desenvolvo projetos focados em Laravel, arquitetura de APIs, cloud e sistemas escaláveis.
 </p>
 
 <p>
