@@ -1,27 +1,28 @@
 
-<table>
+<table style="width: 100%;">
 <tr>
-<td style="text:center;">
+<td valign="middle" style="width: 20%;">
 
-<pre>
-                         ###########      
-                      #################   
-                     ###################  
-                   ######  ##   ##  ######
-                   ######           ######
-                   #####             #####
-                   #####             #####
-                   #########     #########
-                    ########     ######## 
-                      ######     ######   
-                        ####     ####                                            
+<pre style="margin: 0;">
+      ###########
+   #################
+  ###################
+######  ##   ##  ######
+######           ######
+#####             #####
+#####             #####
+#########     #########
+ ########     ########
+   ######     ######
+     ####     ####
 </pre>
 
 </td>
-<td valign="middle">
 
-```
-sabrina@github
+<td valign="middle" style="width: 80%;">
+
+<pre style="margin: 0;">
+bina663@github
 --------------------
 OS........: Backend Developer
 Cargo......: Pleno (Mid-Level)
@@ -35,7 +36,7 @@ GPU........: Docker + Git
 Memory.....: Web Scraping / Automação
 Disk.......: MySQL, MongoDB
 Locale.....: pt_BR.UTF-8
-```
+</pre>
 
 </td>
 </tr>
