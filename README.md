@@ -1,10 +1,47 @@
+
+<table>
+<tr>
+<td style="text:center;">
+
+<pre>
+                         ###########      
+                      #################   
+                     ###################  
+                   ######  ##   ##  ######
+                   ######           ######
+                   #####             #####
+                   #####             #####
+                   #########     #########
+                    ########     ######## 
+                      ######     ######   
+                        ####     ####                                            
+</pre>
+
+</td>
+<td valign="middle">
+
+```
+sabrina@github
+--------------------
+OS........: Backend Developer
+Cargo......: Pleno (Mid-Level)
+Kernel.....: Node.js + Python + PHP
+Uptime.....: 4+ anos de experiência
+Shell......: JavaScript / Python
+WM.........: Laravel + APIs REST
+Terminal...: VS Code
+CPU........: AWS Lambda (Cloud)
+GPU........: Docker + Git
+Memory.....: Web Scraping / Automação
+Disk.......: MySQL, MongoDB
+Locale.....: pt_BR.UTF-8
+```
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-
-<img src="img/banner.png" alt="Banner" width="100%" />
-
-# Olá, eu sou a Sabrina Oliveira 👋
-
-**Desenvolvedora Backend Pleno** | Automações • Web Scraping • Integração de Sistemas
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bina663.github.io/sabrina/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-oliveira-ba80031b0/)
@@ -15,19 +52,22 @@
 
 ---
 
-## 😎 Sobre mim
+## `$ whoami`
 
-Tenho mais de **4 anos de experiência** desenvolvendo automações, soluções de web scraping e integrações de sistemas. Atualmente trabalho na criação e manutenção de soluções automatizadas usando **Node.js**, **Python**, **AWS Lambda** e outros serviços em nuvem.
+Desenvolvedora Backend Pleno com **4+ anos** construindo automações, web scraping e integrações de sistemas. Atualmente trabalhando com **Node.js**, **Python**, **AWS Lambda** e outros serviços em nuvem.
 
-- 🔭 Atualmente desenvolvendo projetos com **Laravel**, arquitetura de APIs e sistemas escaláveis em nuvem
-- ⚙️ Experiência sólida na construção de **APIs REST**, processamento de dados e automação de processos complexos
-- 🌱 Aprofundando conhecimentos em arquitetura de sistemas distribuídos e cloud
-- 💬 Fale comigo sobre backend, automação ou integrações de sistemas
-- 📫 Como me encontrar: veja os links acima
+```bash
+$ cat objetivos.txt
+🔭 Desenvolvendo projetos com Laravel, arquitetura de APIs e sistemas escaláveis em nuvem
+⚙️  Construindo APIs REST, processamento de dados e automação de processos complexos
+🌱 Aprofundando conhecimentos em arquitetura de sistemas distribuídos e cloud
+💬 Fale comigo sobre backend, automação ou integrações de sistemas
+📫 Como me encontrar: veja os links acima
+```
 
 ---
 
-## 🚀 Tecnologias que eu uso
+## `$ neofetch --stack`
 
 <div align="center">
 
@@ -66,7 +106,7 @@ Tenho mais de **4 anos de experiência** desenvolvendo automações, soluções 
 
 ---
 
-## 📊 Estatísticas do GitHub
+## `$ github --stats`
 
 <div align="center">
 
