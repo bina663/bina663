@@ -70,8 +70,11 @@ $ cat estudando.txt
 
 $ cat contato.txt
 💬 Fale comigo sobre backend, automação ou scraping
-📫 Links lá em cima
 ```
+
+🌐 **Portfólio:** [bina663.github.io/sabrina](https://bina663.github.io/sabrina/)<br>
+💼 **LinkedIn:** [linkedin.com/in/sabrina-oliveira-ba80031b0](https://www.linkedin.com/in/sabrina-oliveira-ba80031b0/)<br>
+📫 **E-mail:** [bina.oliver4@gmail.com](mailto:bina.oliver4@gmail.com)
 
 ---
 
